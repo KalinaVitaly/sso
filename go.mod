@@ -1,3 +1,3 @@
-module github.com/KalinaVitaly/sso.git
+module github.com/KalinaVitaly/sso
 
 go 1.23.4
